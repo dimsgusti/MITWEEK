@@ -1,0 +1,57 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html{
+  scroll-behavior: smooth;
+}
+
+body{
+  background-color: #1A120B;
+}
+
+#bggradient {
+  background-image: url('../images/gradient-bg/Gradient-1.png'); 
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: left;
+  height: 300px; 
+  display: flex;
+  color: white; 
+}
+
+#bggradient2 {
+  background-image: url('../images/gradient-bg/Gradient-2.png'); 
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: left;
+  height: 300px; 
+  display: flex;
+  color: white; 
+}
+
+#bggradient3 {
+  background-image: url('../images/gradient-bg/Gradient-3.png'); 
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 300px; 
+  display: flex;
+  color: white; 
+}
+
+#bggradient4 {
+  background-image: url('../images/gradient-bg/Gradient-4.png'); 
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: right;
+  height: 300px; 
+  display: flex;
+  color: white; 
+}
+
+
+#bggradient5{
+  background: rgb(102,199,195);
+  background: linear-gradient(180deg, rgba(102,199,195,1) 0%, rgba(96,204,154,1) 100%);
+}
