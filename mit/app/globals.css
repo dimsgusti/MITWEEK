@@ -7,16 +7,15 @@ html{
 }
 
 body{
-  background-color: #1A120B;
+  background-color: #141619;
 }
 
 #bggradient {
   background-image: url('../images/gradient-bg/Gradient-1.png'); 
   background-size: contain;
   background-repeat: no-repeat;
-  background-position: left;
-  height: 300px; 
-  display: flex;
+  background-position: center;
+  height: 300px;
   color: white; 
 }
 
@@ -52,6 +51,14 @@ body{
 
 
 #bggradient5{
-  background: rgb(102,199,195);
-  background: linear-gradient(180deg, rgba(102,199,195,1) 0%, rgba(96,204,154,1) 100%);
+  /* background: rgb(102,199,195);
+  background: linear-gradient(180deg, rgba(102,199,195,1) 0%, rgba(96,204,154,1) 100%); */
+  background-image: url('../images/logo/bgpartnership.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: bottom;
+}
+
+#messagebox{
+  clip-path: polygon(0% 0%, 100% 0%, 100% 75%, 30% 75%, 0 100%, 0 75%, 0 75%);
 }
