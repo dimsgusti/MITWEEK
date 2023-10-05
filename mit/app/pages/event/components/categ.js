@@ -8,7 +8,7 @@ import typingspeed from './images/typingspeed.png'
 import robotik from './images/robotik.png'
 import videografi from './images/videografi.png'
 import jaringan from './images/jaringan.png'
-import uiux from './images/ux.png'
+import uiux from './images/UX.png'
 import poster from './images/poster.png'
 import daftar from './images/daftar.png'
 
