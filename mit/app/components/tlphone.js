@@ -7,7 +7,7 @@ export default function Tlphone(){
                 <div className="flex-col">
                     <div className="flex justify-evenly items-center gap-8">
                         <Link href='#mitevent'>
-                            <div className="flex items-end p-2 rounded-lg w-32 justify-center" id="bggradient12">
+                            <div className="flex items-end p-2 rounded-lg w-36 justify-center font-bold" id="bggradient12">
                                 <h1 className="text-2xl">MIT</h1>
                                 <h1 id="bggradient8" className="text-xl">event</h1>
                             </div>
@@ -21,7 +21,7 @@ export default function Tlphone(){
                     </div>
                     <div className="flex justify-evenly items-center gap-8 mt-4">
                         <Link href='#seminarmit'>
-                            <div className="flex items-end p-2 rounded-lg w-32 justify-center" id="bggradient12">
+                            <div className="flex items-end p-2 rounded-lg w-36 justify-center font-bold" id="bggradient12">
                                 <h1 id="bggradient9" className="text-xl">seminar</h1>
                                 <h1 className="text-2xl">MIT</h1>
                             </div>
@@ -35,7 +35,7 @@ export default function Tlphone(){
                     </div>
                     <div className="flex justify-evenly items-center gap-8 mt-4">
                         <Link href='#mitpeduli'>
-                            <div className="flex items-end p-2 rounded-lg w-32 justify-center" id="bggradient12">
+                            <div className="flex items-end p-2 rounded-lg w-36 justify-center font-bold" id="bggradient12">
                                 <h1 className="text-2xl">MIT</h1>
                                 <h1 id="bggradient10" className="text-xl">peduli</h1>
                             </div>
@@ -49,7 +49,7 @@ export default function Tlphone(){
                     </div>
                     <div className="flex justify-evenly items-center gap-8 mt-4 mb-8">
                         <Link href='#mitfest'>
-                            <div className="flex items-end p-2 rounded-lg w-32 justify-center" id="bggradient12">
+                            <div className="flex items-end p-2 rounded-lg w-36 justify-center font-bold" id="bggradient12">
                                 <h1 className="text-2xl">MIT</h1>
                                 <h1 id="bggradient11" className="text-xl">fest</h1>
                             </div>
