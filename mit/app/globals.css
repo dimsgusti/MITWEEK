@@ -59,6 +59,37 @@ body{
   background-position: bottom;
 }
 
+#bggradient6{
+  background: rgb(99,199,195);
+  background: linear-gradient(325deg, rgba(99,199,195,1) 0%, rgba(43,49,121,1) 100%);
+}
+
+#bggradient7{
+  background: rgb(53,78,132);
+  background: linear-gradient(325deg, rgba(53,78,132,1) 0%, rgba(23,21,67,1) 100%);
+}
+
+#bggradient8{
+  color: rgb(99, 140, 229);
+}
+
+#bggradient9{
+  color: #66C8C3;
+}
+
+#bggradient10{
+  color: #B8170F;
+}
+
+#bggradient11{
+  color: #5cdedc;
+}
+
+#bggradient12{
+  background: rgb(53,78,132);
+  background: linear-gradient(180deg, rgba(53,78,132,1) 0%, rgba(23,21,67,0.4990371148459384) 100%);
+}
+
 #messagebox{
   clip-path: polygon(0% 0%, 100% 0%, 100% 75%, 30% 75%, 0 100%, 0 75%, 0 75%);
 }

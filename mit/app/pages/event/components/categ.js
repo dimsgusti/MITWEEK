@@ -29,7 +29,7 @@ export default function Categ(){
                     <h1 className='text-lg mb-4 flex-col'>
                         MIT-week tahun ini mengadakan berbagai macam lomba menarik dengan tema yang beragam, mulai dari e-sport, lomba keilmuan dan Seni. Ayo ikuti dan menangkan hadiah-hadiah menarik. 
                         Untuk info lebih lanjut silahkan download juknis lomba dibawah.</h1>
-                    <h1 className='text-sm text-indigo-500'>*klik untuk mendownload juknis</h1>
+                    <h1 className='text-sm text-indigo-500'>*klik kartu untuk mendownload juknis</h1>
                 </div>
                 {/* <h1 className='mb-4'>
                 *klik untuk mendownload juknis
