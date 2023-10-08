@@ -29,7 +29,7 @@ export default function Navbar(){
                 <div className="hidden md:flex gap-8 lg:text-md">
                     <Link href='/' className='hover:border-b-2 font-bold'>HOME</Link>
                     <Link href='/pages/event' className='hover:border-b-2 font-bold'>EVENT</Link>
-                    {/* <Link href='/' className='hover:border-b-2 font-bold'>PARTNERSHIP</Link> */}
+                    <Link href='/#gotopartner' className='hover:border-b-2 font-bold'>PARTNERSHIP</Link>
                     {/* <Link href='/' className='hover:border-b-2 font-bold'>CONTACT US</Link> */}
                 </div>
                 <div className="lg:block lg:text-lg">

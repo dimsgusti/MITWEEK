@@ -11,7 +11,7 @@ export default function Footer(){
         <footer className="bg-[#1e2125] text-[#F2F0E9] rounded-lg shadow m-4 bottom-0">
             <div className="w-full max-w-screen-xl mx-auto p-4 md:py-8">
                 <div className="sm:flex sm:items-center sm:justify-center">
-                    <a href="https://google.com/" className="flex items-center mb-4 sm:mb-0">
+                    <a href="/" className="flex items-center mb-4 sm:mb-0">
                         {/* Logo */}
                         <Image 
                             src={LogoMIT}
