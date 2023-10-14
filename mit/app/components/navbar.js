@@ -10,13 +10,6 @@ export default function Navbar(){
             <div className="flex justify-center md:justify-evenly items-center p-4">
                 <div className="lg:text-lg">
                     <Link href='/'>
-                        {/* <Image
-                            src={LogoMIT}
-                            width={75}
-                            height={75}
-                            alt="Logo"
-                            priority
-                        /> */}
                         <Image
                             src={LogoMITDesktop}
                             width={150}

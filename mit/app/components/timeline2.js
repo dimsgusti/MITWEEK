@@ -35,7 +35,7 @@ export default function Timeline2(){
                     <div className='flex items-center'>
                         <div className="flex-col text-center mt-8 p-2 md:p-4 w-auto rounded-xl" id="bggradient7">
                             <h1 className="text-lg md:text-2xl font-bold">Batas pendaftaran lomba</h1>
-                            <h1 className="text-lg font-mono md:tetx-2xl" id='countdown'>{countdown.days}Hari {countdown.hours}Jam {countdown.minutes}Menit</h1>
+                            <h1 className="text-lg font-mono md:tetx-2xl animate-pulse" id='countdown'>{countdown.days}Hari {countdown.hours}Jam {countdown.minutes}Menit</h1>
                         </div>
                     </div>
                 </div>
